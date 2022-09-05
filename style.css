@@ -1,8 +1,16 @@
 * {
     background-color: rgba(103, 111, 119, 0.76);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#homeimage, .recipeimage {
+    height: auto;
 }
 
 #homeimage {
-    width: 100;
-    height: 100;
+    width: 1000px;
+}
+
+.recipeimage {
+    width: 450px;
 }
